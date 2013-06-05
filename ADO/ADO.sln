@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ADO", "ADO\ADO.vcxproj", "{C407511C-5C6B-4190-AC76-5D7BF9C54BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C407511C-5C6B-4190-AC76-5D7BF9C54BDB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C407511C-5C6B-4190-AC76-5D7BF9C54BDB}.Debug|Win32.Build.0 = Debug|Win32
+		{C407511C-5C6B-4190-AC76-5D7BF9C54BDB}.Release|Win32.ActiveCfg = Release|Win32
+		{C407511C-5C6B-4190-AC76-5D7BF9C54BDB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		BuildVersion_ConfigurationName = Release
+		BuildVersion_StartDate = 2013/1/1
+		BuildVersion_BuildVersioningStyle = MonthStamp.DayStamp.Increment.None
+		BuildVersion_UpdateFileVersion = True
+		BuildVersion_UpdateAssemblyVersion = True
+		BuildVersion_UseGlobalSettings = True
+	EndGlobalSection
+EndGlobal
